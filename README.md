@@ -14,4 +14,4 @@ can also be found there.
 
 =======
 # gitian.sigs
-gitian signatures
+gitian signatures for the btc1 project releases.
